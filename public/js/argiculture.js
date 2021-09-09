@@ -2,7 +2,7 @@ const { web3 } = window
 const selectedAddress = web3.eth.defaultAccount
 
 $(document).ready(function() {
-    const productRegistryContractAddress = '0x6813e2dc684569ae8cf4d0652f5c75aee02f7cb9';
+    const productRegistryContractAddress = '0x068c004a8f9db1847e276c6ebb46a1b29b04a4bf';
     const productRegistryContractABI = 
 	
 	[
